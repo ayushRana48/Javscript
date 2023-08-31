@@ -1,5 +1,5 @@
 
-# HW 3
+# HW 3 - Javascript
 Learning objectives:
 Learn the basic syntax of JavaScript and how it differs from other languages
 Learn how to make complex functions in JavaScript using custom data structures
